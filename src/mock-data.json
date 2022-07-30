@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "fullName": "Jessy warren",
+      "enrolMent": "bh7456",
+      "class": "9",
+      "gender": "female",
+       "img" : "image/download1.jpg"
+
+    },
+    {
+      "id": 2,
+      "fullName": "Jessica warren",
+      "enrolMent": "bh7456",
+      "class": "9",
+      "gender": "female",
+       "img" : "image/download1.jpg"
+    },
+    {
+      "id": 3,
+      "fullName": "Tony Frank",
+      "enrolMent": "nhye334",
+      "class": "7",
+      "gender": "male",
+      "img" : "image/download2.jpg"
+    },
+    {
+      "id": 4,
+      "fullName": "Jeremy Clark",
+      "enrolMent": "557ghr8",
+      "class": "11",
+      "gender": "male",
+      "img" : "image/download3.jpg"
+    },
+    {
+      "id": 5,
+      "fullName": "Raymond Edwards",
+      "enrolMent": "ssgi345",
+      "class": "12",
+      "gender": "male",
+      "img" : "image/imgg1.webp"
+    },
+    {
+      "id": 6,
+      "fullName": "Aryan gupta",
+      "enrolMent": "NNY548",
+      "class": "16",
+      "gender": "male",
+      "img" : "image/download3.jpg"
+    },
+    {
+      "id": 7,
+      "fullName": "Ariyaka",
+      "enrolMent": "BYT334",
+      "class": "11",
+      "gender": "Female",
+      "img" : "image/download1.jpg"
+    },
+    {
+      "id": 8,
+      "fullName": "Soham",
+      "enrolMent": "RTNN87",
+      "class": "10",
+      "gender": "male",
+      "img" : "image/imgg1.webp"
+    },
+    {
+      "id": 9,
+      "fullName": "Kshitija ",
+      "enrolMent": "VFR343",
+      "class": "11",
+      "gender": "Female",
+      "img" : "image/download3.jpg"
+    },
+    {
+      "id": 10,
+      "fullName": "JPeeter",
+      "enrolMent": "Brt54",
+      "class": "8",
+      "gender": "male",
+      "img" : "image/download3.jpg"
+    }
+  ]
